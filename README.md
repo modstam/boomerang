@@ -11,6 +11,9 @@ Deploy and manage your git repos to your servers. A personal project for easily 
 
 ## Technology goals
 
+### Installation
+- Easy installation. Machine requirements should only be to have docker engine installed. Should be as easy as doing ``docker compose up``
+
 ### Client
 
 - browser based GUI
